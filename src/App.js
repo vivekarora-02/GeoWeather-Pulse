@@ -13,7 +13,7 @@ function App() {
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="">
+        <a target="_blank" href="https://github.com/vivekarora-02">
           Vivek Arora
         </a>{" "}
       </div>
