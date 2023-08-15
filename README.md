@@ -38,7 +38,7 @@ Explore GeoWeather Pulse live! Check out our interactive demo [here](#).
 
 GeoWeather Pulse is built using the following technologies:
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, ReactJS
 - **Weather Data:** [Weather API Service](https://openweathermap.org/)
 - **Version Control:** Git, GitHub
 
